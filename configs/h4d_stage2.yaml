@@ -1,0 +1,26 @@
+data:
+  path: ./dataset
+  train_split: train
+  val_split: val
+  test_split: test
+  num_input_points: 8192
+  length_sequence: 30
+  offset_sequence: 15
+  n_files_per_sequence: -1
+model:
+  use_aux_code: true
+training:
+  out_dir: out/h4d_stage2
+
+  model_selection_metric: pve
+  model_selection_mode: minimize
+  batch_size: 4
+  batch_size_vis: 1
+  batch_size_val: 1
+  print_every: 5
+  checkpoint_every: 200
+  validate_every: 5000
+  backup_every: 10000
+  learning_rate: 0.0001
+  lr_decay: 0.1
+  lr_decay_step: 200000

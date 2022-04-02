@@ -1,0 +1,13 @@
+data:
+  path: ./dataset
+  train_split: train
+  val_split: val
+  test_split: test
+  num_input_points: 8192
+  length_sequence: 30
+  offset_sequence: 15
+  n_files_per_sequence: -1
+model:
+  use_aux_code: true
+training:
+  out_dir: out/h4d_pretrained
