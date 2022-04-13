@@ -1,6 +1,9 @@
 # Human 4D Modeling
 
 ### [Project Page](https://boyanjiang.github.io/H4D/) | [Video](https://youtu.be/ZT_3BsTOY9A) | [Paper](https://arxiv.org/pdf/2203.01247.pdf)
+
+![teaser](assets/teaser.gif)
+
 This is the official PyTorch implementation of the CVPR'2022 paper 
 "H4D: Human 4D Modeling by Learning Neural Compositional Representation".
 
