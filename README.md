@@ -1,6 +1,6 @@
 # Human 4D Modeling
 
-### [Project Page](https://boyanjiang.github.io/H4D/) | [Video](https://youtu.be/ZT_3BsTOY9A) | [Paper](https://arxiv.org/pdf/2203.01247.pdf)
+### [Project Page](https://boyanjiang.github.io/H4D/) | [Video](https://youtu.be/_Gue5kxtBx8) | [Paper](https://arxiv.org/pdf/2203.01247.pdf)
 
 ![teaser](assets/teaser.gif)
 
